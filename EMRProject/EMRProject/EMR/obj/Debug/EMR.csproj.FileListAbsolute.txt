@@ -1,0 +1,1723 @@
+C:\Users\Dell\source\repos\EMR\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR - Copy\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR - Copy\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR - Copy\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR - Copy\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR -BackUp3\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver3\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver4\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver5\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver6\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver7\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver8\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver9\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver10\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\obj\Debug\EMR.csproj.CopyComplete
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver11\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\obj\Debug\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\obj\Debug\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\EMR.dll.config
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\EMR.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\EMR.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\LibExcel.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Base.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.Export.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Data.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Map.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Check.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Web.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.WebDesign.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Svg.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\WebGrease.dll
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Base.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Base.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Dashboard.Export.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Data.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Data.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Map.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Map.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Check.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Mvc.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.Web.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Stimulsoft.Report.WebDesign.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\EMR_Ver12\EMR\obj\Debug\EMR.csproj.CopyComplete
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\EMR.dll.config
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\EMR.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\EMR.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\csc.exe
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\csc.exe.config
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\csc.rsp
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\csi.exe
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\csi.exe.config
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\csi.rsp
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.AppContext.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Collections.Immutable.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Console.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Globalization.Calendars.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.IO.Compression.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.IO.FileSystem.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Net.Http.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Net.Sockets.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Reflection.Metadata.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.ValueTuple.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Xml.XPath.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\vbc.exe
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\vbc.exe.config
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\vbc.rsp
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\VBCSCompiler.exe
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\roslyn\VBCSCompiler.exe.config
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Antlr3.Runtime.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\AspNet.ScriptManager.bootstrap.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\AspNet.ScriptManager.jQuery.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\LibExcel.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Microsoft.ScriptManager.WebForms.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Microsoft.Web.Infrastructure.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Newtonsoft.Json.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Base.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.Drawing.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.Export.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Data.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Map.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Check.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Helper.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Mvc.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Web.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.WebDesign.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Svg.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Helpers.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Mvc.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Optimization.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Razor.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Webpages.Deployment.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Webpages.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Webpages.Razor.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\WebGrease.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Base.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Base.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.Drawing.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.Drawing.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.Export.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Dashboard.Export.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Data.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Data.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Map.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Map.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Check.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Check.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Helper.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Helper.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Mvc.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Mvc.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Web.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.Web.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.WebDesign.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Stimulsoft.Report.WebDesign.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Optimization.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Newtonsoft.Json.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Antlr3.Runtime.pdb
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Razor.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Webpages.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Webpages.Deployment.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Webpages.Razor.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Helpers.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\System.Web.Mvc.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\obj\Debug\EMR.csprojAssemblyReference.cache
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\obj\Debug\EMR.csproj.CoreCompileInputs.cache
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\obj\Debug\EMR.csproj.CopyComplete
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\obj\Debug\EMR.dll
+E:\SECOND YEAR\FIRST SEMESTER\Software development\EMRProject\EMRProject\EMR\obj\Debug\EMR.pdb
