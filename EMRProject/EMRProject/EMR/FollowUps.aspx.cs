@@ -10,7 +10,7 @@ namespace EMR
 {
     public partial class FollowUps : System.Web.UI.Page
     {
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D8FRGB1\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
 
         protected void Page_Load(object sender, EventArgs e)
         {

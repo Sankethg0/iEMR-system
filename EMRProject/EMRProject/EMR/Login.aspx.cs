@@ -19,7 +19,7 @@ namespace EMR
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D8FRGB1\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
             con.Open();
             SqlCommand cmd = new SqlCommand("select * from Users where usename='" + txtUser.Text + "' and pw='" + txtPass.Text + "' ", con);
 

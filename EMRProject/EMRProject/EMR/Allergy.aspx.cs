@@ -18,7 +18,7 @@ namespace EMR
         protected void LoadALLHistory()
         {
             string v = Session["smrn"].ToString();
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D8FRGB1\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
             con.Open();
 
             SqlCommand cmd = new SqlCommand("select * from Medical_history where patient_id=" + v + " and history_type='ALL' ", con);

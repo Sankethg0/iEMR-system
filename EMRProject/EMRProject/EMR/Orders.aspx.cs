@@ -30,7 +30,7 @@ namespace EMR
             {
                 string val = Session["smrn"].ToString();
                 string d = DateTime.Now.ToString();
-                SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D8FRGB1\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
+                SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
                 con.Open();
                 SqlCommand cmd1 = new SqlCommand("Insert into Orders" + "(patient_id,type,description,dosage,datestamp)values(@patient_id1,@type1,@description1,@dosage1,@datestamp1)", con);
 

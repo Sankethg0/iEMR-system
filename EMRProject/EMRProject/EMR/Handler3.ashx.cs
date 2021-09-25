@@ -16,7 +16,7 @@ namespace EMR
         //string strcon = ConfigurationManager.AppSettings["ConnectionString"].ToString();
         public void ProcessRequest(HttpContext context)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D8FRGB1\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
 
             //string imageid = context.Request.QueryString["ImID"];
             con.Open();

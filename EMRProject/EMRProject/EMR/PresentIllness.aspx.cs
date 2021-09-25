@@ -20,7 +20,7 @@ namespace EMR
         {
             string mrn = Session["smrn"].ToString();
             string apc = Session["sapc"].ToString();
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D8FRGB1\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
             con.Open();
             SqlCommand cmdn = new SqlCommand("select * from PresentIllness where patient_id=" + mrn + " and app_code=" +apc, con);
 

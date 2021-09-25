@@ -143,7 +143,7 @@ namespace EMR
             else if (txtHOM.Text == "DEL")
             {
                 string val = Session["smrn"].ToString();
-                String mycon = @"Data Source=DESKTOP-D8FRGB1\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True";
+                String mycon = @"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True";
                 String updatedata = "delete from Lab_Reports where datestamp='" + DateTime.Now + "'and patient_id=" + val;
                 SqlConnection con = new SqlConnection(mycon);
                 con.Open();

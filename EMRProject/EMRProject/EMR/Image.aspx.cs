@@ -39,7 +39,7 @@ namespace EMR
             if (fileuploadImage.HasFile)
             {
                 string val = Session["smrn"].ToString();
-                SqlConnection connection = new SqlConnection(@"Data Source=DESKTOP-D8FRGB1\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
+                SqlConnection connection = new SqlConnection(@"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
                 //getting length of uploaded file
                 int length = fileuploadImage.PostedFile.ContentLength;
                 //create a byte array to store the binary image data
