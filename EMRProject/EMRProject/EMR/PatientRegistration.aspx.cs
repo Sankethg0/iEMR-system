@@ -26,7 +26,7 @@ namespace EMR
         {
             if (txtRBClerk.Text.Length > 4)
             {
-                if (txtRBClerk.Text == "LOGOUT")
+                if (txtRBClerk.Text == "logout")
                 {
                     txtRBClerk.Text = "";
                     btnLogOut_Click(sender, e);
@@ -34,83 +34,83 @@ namespace EMR
                 string rbtxt = txtRBClerk.Text;
                 string key = txtRBClerk.Text.Substring(0, 4);
                 string des = rbtxt.Substring(4);
-                if (key == "PTN ")
+                if (key == "ptn ")
                 {
                     txtName.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "MRN ")
+                else if (key == "mrn ")
                 {
                     txtMRN.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "CON ")
+                else if (key == "con ")
                 {
                     txtContact.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "NIC ")
+                else if (key == "nic ")
                 {
                     txtNIC.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "ADR ")
+                else if (key == "adr ")
                 {
                     txtAddress.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "EML ")
+                else if (key == "eml ")
                 {
                     txtEmail.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "DOB ")
+                else if (key == "dob ")
                 {
                     txtDOB.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "GEN ")
+                else if (key == "gen ")
                 {
                     txtGen.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "BGP ")
+                else if (key == "bgp ")
                 {
                     txtBlGp.Text = des;
                     txtRBClerk.Text = "";
                 }
 
-                else if (key == "OCC ")
+                else if (key == "occ ")
                 {
                     txtOccupation.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "DIS ")
+                else if (key == "dis ")
                 {
                     txtDistrict.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "ECN ")
+                else if (key == "ecn ")
                 {
                     txtECN.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "PCP ")
+                else if (key == "pcp ")
                 {
                     txtPCP.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "PFX ")
+                else if (key == "pfx ")
                 {
                     txtPFX.Text = des;
                     txtRBClerk.Text = "";
                 }
-                else if (key == "SER ")
+                else if (key == "ser ")
                 {
                     Button4_Click(sender, e);
                     txtRBClerk.Text = "";
                 }
-                else if (key == "DEL ")
+                else if (key == "del ")
                 {
                     btnDelete_Click(sender, e);
                     txtRBClerk.Text = "";
@@ -121,13 +121,13 @@ namespace EMR
             {
                 string key2 = txtRBClerk.Text.Substring(0, 3);
 
-                if (key2 == "CLR")
+                if (key2 == "clr")
                 {
                     txtRBClerk.Text = "";
                     btnClear_Click(sender, e);
 
                 }
-                else if (key2 == "ADD")
+                else if (key2 == "add")
                 {
                     txtRBClerk.Text = "";
                     Response.Write(@"<script language='javascript'>alert('Patient Details Entered!!!')</script>");

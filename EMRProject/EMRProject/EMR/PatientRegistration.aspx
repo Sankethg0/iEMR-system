@@ -15,7 +15,7 @@
         <table>
             <tr >
               <div  class="centerblock" align="center" >
-            <asp:TextBox ID="txtRBClerk" runat="server" AutoPostBack="true" OnTextChanged="txtRBClerk_TextChanged" spellcheck="false" Width="800px" autocomplete="off" Height="70px" BorderColor="#CC0000" BorderWidth="4px" placeholder="TYPE HERE/ADD/SER/CLR/DEL/LOGOUT">    </asp:TextBox>                 
+            <asp:TextBox ID="txtRBClerk" runat="server" AutoPostBack="true" OnTextChanged="txtRBClerk_TextChanged" spellcheck="false" Width="800px" autocomplete="off" Height="70px" BorderColor="#CC0000" BorderWidth="4px" placeholder="TYPE HERE/ADD/SER/CLR/DEL/LOGOUT" style="text-transform:uppercase;">    </asp:TextBox>                 
             </div> 
                  </tr></table>
    
