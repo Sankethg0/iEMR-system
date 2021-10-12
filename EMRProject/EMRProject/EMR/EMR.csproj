@@ -172,10 +172,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="90DaySnap.aspx" />
-    <Content Include="About.aspx" />
-    <Content Include="Assessment.aspx" />
-    <Content Include="Contact.aspx" />
+    <Content Include="Clerk\PatientRegistration.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -183,14 +180,16 @@
     <Content Include="Content\RadioButtons.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\Tables.css" />
-    <Content Include="FamilyHistory.aspx" />
-    <Content Include="FollowUps.aspx" />
-    <Content Include="Image.aspx" />
+    <Content Include="Doctor\Assessment.aspx" />
+    <Content Include="Doctor\DoctorDashboard.aspx" />
+    <Content Include="Doctor\FollowUps.aspx" />
+    <Content Include="Doctor\LabReports.aspx" />
+    <Content Include="Doctor\Orders.aspx" />
+    <Content Include="Doctor\ReviewofSystem.aspx" />
     <Content Include="images\enrol.png" />
     <Content Include="images\login.png" />
     <Content Include="images\vital-signs-exam.jpg" />
     <Content Include="images\vitals.png" />
-    <Content Include="LabReports.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Main.aspx" />
     <Content Include="favicon.ico" />
@@ -243,27 +242,30 @@
     <Content Include="Localization\vi.xml" />
     <Content Include="Localization\zh-CHS.xml" />
     <Content Include="Localization\zh-CHT.xml" />
-    <Content Include="Orders.aspx" />
-    <Content Include="PastMedicalHistory.aspx" />
-    <Content Include="PatientEducation.aspx" />
-    <Content Include="PatientRegistration.aspx" />
-    <Content Include="PresentIllness.aspx" />
-    <Content Include="Referrals.aspx" />
-    <Content Include="ReviewofSystem.aspx" />
-    <Content Include="ROSAll.aspx" />
-    <Content Include="RoSAllergic.aspx" />
-    <Content Include="RoSCardiovascular.aspx" />
-    <Content Include="RoSConstitutional.aspx" />
-    <Content Include="RoSEndocrine.aspx" />
-    <Content Include="RoSENMT.aspx" />
-    <Content Include="RoSEyes.aspx" />
-    <Content Include="RoSGastroIntestinal.aspx" />
-    <Content Include="RoSGenitourinary.aspx" />
-    <Content Include="RoSHematologic.aspx" />
-    <Content Include="RoSMusculoskeletal.aspx" />
-    <Content Include="RoSNeurologic.aspx" />
-    <Content Include="RoSPsychiatric.aspx" />
-    <Content Include="RoSRespiratory.aspx" />
+    <Content Include="Medical Assistant\90DaySnap.aspx" />
+    <Content Include="Medical Assistant\Allergy.aspx" />
+    <Content Include="Medical Assistant\CurrentMedications.aspx" />
+    <Content Include="Medical Assistant\FamilyHistory.aspx" />
+    <Content Include="Medical Assistant\Image.aspx" />
+    <Content Include="Medical Assistant\MADashboard.aspx" />
+    <Content Include="Medical Assistant\PastMedicalHistory.aspx" />
+    <Content Include="Medical Assistant\PatientEducation.aspx" />
+    <Content Include="Medical Assistant\PresentIllness.aspx" />
+    <Content Include="Medical Assistant\ROSAll.aspx" />
+    <Content Include="Medical Assistant\RoSAllergic.aspx" />
+    <Content Include="Medical Assistant\RoSCardiovascular.aspx" />
+    <Content Include="Medical Assistant\RoSConstitutional.aspx" />
+    <Content Include="Medical Assistant\RoSEndocrine.aspx" />
+    <Content Include="Medical Assistant\RoSENMT.aspx" />
+    <Content Include="Medical Assistant\RoSEyes.aspx" />
+    <Content Include="Medical Assistant\RoSGastroIntestinal.aspx" />
+    <Content Include="Medical Assistant\RoSGenitourinary.aspx" />
+    <Content Include="Medical Assistant\RoSHematologic.aspx" />
+    <Content Include="Medical Assistant\RoSMusculoskeletal.aspx" />
+    <Content Include="Medical Assistant\RoSNeurologic.aspx" />
+    <Content Include="Medical Assistant\RoSPsychiatric.aspx" />
+    <Content Include="Medical Assistant\RoSRespiratory.aspx" />
+    <Content Include="Medical Assistant\SocialHistory.aspx" />
     <Content Include="Scripts\jquery-ui-1-10.js" />
     <Content Include="Scripts\jquery-ui-1-11.js" />
     <Content Include="Scripts\jquery-ui-1-12.js" />
@@ -274,11 +276,6 @@
     <Content Include="Scripts\jquery-ui-files.js" />
     <Content Include="Scripts\jquery-ui.js" />
     <Content Include="Scripts\WebForms\EnterPress.js" />
-    <Content Include="SocialHistory.aspx" />
-    <Content Include="MADashboard.aspx" />
-    <Content Include="DoctorDashboard.aspx" />
-    <Content Include="Allergy.aspx" />
-    <Content Include="CurrentMedications.aspx" />
     <Content Include="Symptoms\AbdominalPain.aspx" />
     <Content Include="Symptoms\BlackOrBloodyStools.aspx" />
     <Content Include="Symptoms\ChestPain.aspx" />
@@ -354,49 +351,56 @@
     <Content Include="Views\web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="90DaySnap.aspx.cs">
-      <DependentUpon>90DaySnap.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="90DaySnap.aspx.designer.cs">
-      <DependentUpon>90DaySnap.aspx</DependentUpon>
-    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
-    <Compile Include="About.aspx.cs">
-      <DependentUpon>About.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="About.aspx.designer.cs">
-      <DependentUpon>About.aspx</DependentUpon>
-    </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Assessment.aspx.cs">
+    <Compile Include="Clerk\PatientRegistration.aspx.cs">
+      <DependentUpon>PatientRegistration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Clerk\PatientRegistration.aspx.designer.cs">
+      <DependentUpon>PatientRegistration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\Assessment.aspx.cs">
       <DependentUpon>Assessment.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Assessment.aspx.designer.cs">
+    <Compile Include="Doctor\Assessment.aspx.designer.cs">
       <DependentUpon>Assessment.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Contact.aspx.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
+    <Compile Include="Doctor\DoctorDashboard.aspx.cs">
+      <DependentUpon>DoctorDashboard.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Contact.aspx.designer.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
+    <Compile Include="Doctor\DoctorDashboard.aspx.designer.cs">
+      <DependentUpon>DoctorDashboard.aspx</DependentUpon>
     </Compile>
-    <Compile Include="FamilyHistory.aspx.cs">
-      <DependentUpon>FamilyHistory.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="FamilyHistory.aspx.designer.cs">
-      <DependentUpon>FamilyHistory.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="FollowUps.aspx.cs">
+    <Compile Include="Doctor\FollowUps.aspx.cs">
       <DependentUpon>FollowUps.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="FollowUps.aspx.designer.cs">
+    <Compile Include="Doctor\FollowUps.aspx.designer.cs">
       <DependentUpon>FollowUps.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\LabReports.aspx.cs">
+      <DependentUpon>LabReports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\LabReports.aspx.designer.cs">
+      <DependentUpon>LabReports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\Orders.aspx.cs">
+      <DependentUpon>Orders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\Orders.aspx.designer.cs">
+      <DependentUpon>Orders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\ReviewofSystem.aspx.cs">
+      <DependentUpon>ReviewofSystem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\ReviewofSystem.aspx.designer.cs">
+      <DependentUpon>ReviewofSystem.aspx</DependentUpon>
     </Compile>
     <Compile Include="Handler1.ashx.cs">
       <DependentUpon>Handler1.ashx</DependentUpon>
@@ -406,20 +410,6 @@
     </Compile>
     <Compile Include="Handler3.ashx.cs">
       <DependentUpon>Handler3.ashx</DependentUpon>
-    </Compile>
-    <Compile Include="Image.aspx.cs">
-      <DependentUpon>Image.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Image.aspx.designer.cs">
-      <DependentUpon>Image.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="LabReports.aspx.cs">
-      <DependentUpon>LabReports.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="LabReports.aspx.designer.cs">
-      <DependentUpon>LabReports.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
@@ -438,147 +428,175 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Orders.aspx.cs">
-      <DependentUpon>Orders.aspx</DependentUpon>
+    <Compile Include="Medical Assistant\90DaySnap.aspx.cs">
+      <DependentUpon>90DaySnap.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Orders.aspx.designer.cs">
-      <DependentUpon>Orders.aspx</DependentUpon>
+    <Compile Include="Medical Assistant\90DaySnap.aspx.designer.cs">
+      <DependentUpon>90DaySnap.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PastMedicalHistory.aspx.cs">
+    <Compile Include="Medical Assistant\Allergy.aspx.cs">
+      <DependentUpon>Allergy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\Allergy.aspx.designer.cs">
+      <DependentUpon>Allergy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\CurrentMedications.aspx.cs">
+      <DependentUpon>CurrentMedications.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\CurrentMedications.aspx.designer.cs">
+      <DependentUpon>CurrentMedications.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\FamilyHistory.aspx.cs">
+      <DependentUpon>FamilyHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\FamilyHistory.aspx.designer.cs">
+      <DependentUpon>FamilyHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\Image.aspx.cs">
+      <DependentUpon>Image.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\Image.aspx.designer.cs">
+      <DependentUpon>Image.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\MADashboard.aspx.cs">
+      <DependentUpon>MADashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\MADashboard.aspx.designer.cs">
+      <DependentUpon>MADashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\PastMedicalHistory.aspx.cs">
       <DependentUpon>PastMedicalHistory.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="PastMedicalHistory.aspx.designer.cs">
+    <Compile Include="Medical Assistant\PastMedicalHistory.aspx.designer.cs">
       <DependentUpon>PastMedicalHistory.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PatientEducation.aspx.cs">
+    <Compile Include="Medical Assistant\PatientEducation.aspx.cs">
       <DependentUpon>PatientEducation.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="PatientEducation.aspx.designer.cs">
+    <Compile Include="Medical Assistant\PatientEducation.aspx.designer.cs">
       <DependentUpon>PatientEducation.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PresentIllness.aspx.cs">
+    <Compile Include="Medical Assistant\PresentIllness.aspx.cs">
       <DependentUpon>PresentIllness.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="PresentIllness.aspx.designer.cs">
+    <Compile Include="Medical Assistant\PresentIllness.aspx.designer.cs">
       <DependentUpon>PresentIllness.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\ROSAll.aspx.cs">
+      <DependentUpon>ROSAll.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\ROSAll.aspx.designer.cs">
+      <DependentUpon>ROSAll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSAllergic.aspx.cs">
+      <DependentUpon>RoSAllergic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSAllergic.aspx.designer.cs">
+      <DependentUpon>RoSAllergic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSCardiovascular.aspx.cs">
+      <DependentUpon>RoSCardiovascular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSCardiovascular.aspx.designer.cs">
+      <DependentUpon>RoSCardiovascular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSConstitutional.aspx.cs">
+      <DependentUpon>RoSConstitutional.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSConstitutional.aspx.designer.cs">
+      <DependentUpon>RoSConstitutional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSEndocrine.aspx.cs">
+      <DependentUpon>RoSEndocrine.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSEndocrine.aspx.designer.cs">
+      <DependentUpon>RoSEndocrine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSENMT.aspx.cs">
+      <DependentUpon>RoSENMT.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSENMT.aspx.designer.cs">
+      <DependentUpon>RoSENMT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSEyes.aspx.cs">
+      <DependentUpon>RoSEyes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSEyes.aspx.designer.cs">
+      <DependentUpon>RoSEyes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSGastroIntestinal.aspx.cs">
+      <DependentUpon>RoSGastroIntestinal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSGastroIntestinal.aspx.designer.cs">
+      <DependentUpon>RoSGastroIntestinal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSGenitourinary.aspx.cs">
+      <DependentUpon>RoSGenitourinary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSGenitourinary.aspx.designer.cs">
+      <DependentUpon>RoSGenitourinary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSHematologic.aspx.cs">
+      <DependentUpon>RoSHematologic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSHematologic.aspx.designer.cs">
+      <DependentUpon>RoSHematologic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSMusculoskeletal.aspx.cs">
+      <DependentUpon>RoSMusculoskeletal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSMusculoskeletal.aspx.designer.cs">
+      <DependentUpon>RoSMusculoskeletal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSNeurologic.aspx.cs">
+      <DependentUpon>RoSNeurologic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSNeurologic.aspx.designer.cs">
+      <DependentUpon>RoSNeurologic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSPsychiatric.aspx.cs">
+      <DependentUpon>RoSPsychiatric.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSPsychiatric.aspx.designer.cs">
+      <DependentUpon>RoSPsychiatric.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSRespiratory.aspx.cs">
+      <DependentUpon>RoSRespiratory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\RoSRespiratory.aspx.designer.cs">
+      <DependentUpon>RoSRespiratory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Assistant\SocialHistory.aspx.cs">
+      <DependentUpon>SocialHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medical Assistant\SocialHistory.aspx.designer.cs">
+      <DependentUpon>SocialHistory.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Referrals.aspx.cs">
-      <DependentUpon>Referrals.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Referrals.aspx.designer.cs">
-      <DependentUpon>Referrals.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ReviewofSystem.aspx.cs">
-      <DependentUpon>ReviewofSystem.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ReviewofSystem.aspx.designer.cs">
-      <DependentUpon>ReviewofSystem.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ROSAll.aspx.cs">
-      <DependentUpon>ROSAll.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ROSAll.aspx.designer.cs">
-      <DependentUpon>ROSAll.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSAllergic.aspx.cs">
-      <DependentUpon>RoSAllergic.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSAllergic.aspx.designer.cs">
-      <DependentUpon>RoSAllergic.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSCardiovascular.aspx.cs">
-      <DependentUpon>RoSCardiovascular.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSCardiovascular.aspx.designer.cs">
-      <DependentUpon>RoSCardiovascular.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSConstitutional.aspx.cs">
-      <DependentUpon>RoSConstitutional.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSConstitutional.aspx.designer.cs">
-      <DependentUpon>RoSConstitutional.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSEndocrine.aspx.cs">
-      <DependentUpon>RoSEndocrine.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSEndocrine.aspx.designer.cs">
-      <DependentUpon>RoSEndocrine.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSENMT.aspx.cs">
-      <DependentUpon>RoSENMT.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSENMT.aspx.designer.cs">
-      <DependentUpon>RoSENMT.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSEyes.aspx.cs">
-      <DependentUpon>RoSEyes.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSEyes.aspx.designer.cs">
-      <DependentUpon>RoSEyes.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSGastroIntestinal.aspx.cs">
-      <DependentUpon>RoSGastroIntestinal.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSGastroIntestinal.aspx.designer.cs">
-      <DependentUpon>RoSGastroIntestinal.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSGenitourinary.aspx.cs">
-      <DependentUpon>RoSGenitourinary.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSGenitourinary.aspx.designer.cs">
-      <DependentUpon>RoSGenitourinary.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSHematologic.aspx.cs">
-      <DependentUpon>RoSHematologic.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSHematologic.aspx.designer.cs">
-      <DependentUpon>RoSHematologic.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSMusculoskeletal.aspx.cs">
-      <DependentUpon>RoSMusculoskeletal.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSMusculoskeletal.aspx.designer.cs">
-      <DependentUpon>RoSMusculoskeletal.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSNeurologic.aspx.cs">
-      <DependentUpon>RoSNeurologic.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSNeurologic.aspx.designer.cs">
-      <DependentUpon>RoSNeurologic.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSPsychiatric.aspx.cs">
-      <DependentUpon>RoSPsychiatric.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSPsychiatric.aspx.designer.cs">
-      <DependentUpon>RoSPsychiatric.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="RoSRespiratory.aspx.cs">
-      <DependentUpon>RoSRespiratory.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="RoSRespiratory.aspx.designer.cs">
-      <DependentUpon>RoSRespiratory.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -592,13 +610,6 @@
     </Compile>
     <Compile Include="Site.Mobile.Master.designer.cs">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SocialHistory.aspx.cs">
-      <DependentUpon>SocialHistory.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SocialHistory.aspx.designer.cs">
-      <DependentUpon>SocialHistory.aspx</DependentUpon>
     </Compile>
     <Compile Include="Symptoms\AbdominalPain.aspx.cs">
       <DependentUpon>AbdominalPain.aspx</DependentUpon>
@@ -796,47 +807,13 @@
     <Compile Include="Symptoms\Wheezing.aspx.designer.cs">
       <DependentUpon>Wheezing.aspx</DependentUpon>
     </Compile>
+    <Compile Include="System\Configuration\ConfiguartionManager.cs" />
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
-    </Compile>
-    <Compile Include="PatientRegistration.aspx.cs">
-      <DependentUpon>PatientRegistration.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PatientRegistration.aspx.designer.cs">
-      <DependentUpon>PatientRegistration.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="MADashboard.aspx.cs">
-      <DependentUpon>MADashboard.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="MADashboard.aspx.designer.cs">
-      <DependentUpon>MADashboard.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="DoctorDashboard.aspx.cs">
-      <DependentUpon>DoctorDashboard.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="DoctorDashboard.aspx.designer.cs">
-      <DependentUpon>DoctorDashboard.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Allergy.aspx.cs">
-      <DependentUpon>Allergy.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Allergy.aspx.designer.cs">
-      <DependentUpon>Allergy.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="CurrentMedications.aspx.cs">
-      <DependentUpon>CurrentMedications.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="CurrentMedications.aspx.designer.cs">
-      <DependentUpon>CurrentMedications.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebServiceLabs.asmx.cs">
       <DependentUpon>WebServiceLabs.asmx</DependentUpon>

@@ -16,10 +16,12 @@ namespace EMR
         {
 
         }
+        
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-AHH45AF\SQLEXPRESS;Initial Catalog=EMRdb;Integrated Security=True");
+            string conn = System.Configuration.ConfigurationManager.ConnectionStrings["con"].ConnectionString;
+            SqlConnection con = new SqlConnection(conn);
             con.Open();
             SqlCommand cmd = new SqlCommand("select * from Users where usename='" + txtUser.Text + "' and pw='" + txtPass.Text + "' ", con);
 
@@ -32,17 +34,17 @@ namespace EMR
                     if (dr.GetValue(2).ToString() == "Doctor")
                     {
                         Session["category"] = "Doctor";
-                        Response.Redirect("DoctorDashboard.aspx");
+                        Response.Redirect("Doctor/DoctorDashboard.aspx");
                     }
                     else if(dr.GetValue(2).ToString() == "MA")
                     {
                         Session["category"] = "MA";
-                        Response.Redirect("MADashboard.aspx");
+                        Response.Redirect("Medical Assistant/MADashboard.aspx");
                     }
                     else if(dr.GetValue(2).ToString() == "Clerk")
                     {
                         Session["category"] = "Clerk";
-                        Response.Redirect("PatientRegistration.aspx");
+                        Response.Redirect("Clerk/PatientRegistration.aspx");
                     }
                 }
             }
