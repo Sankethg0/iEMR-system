@@ -9,6 +9,7 @@
    
     <div class="centerblock"  align="center"> <img src="images/login.png"  style="width: 371px; height: 318px;" /></div>
     <div class="centerblock"  align="center">
+    <asp:Label ID="label11" runat="server" Text="Login Here" Font-Bold="true" Font-Size="Large"></asp:Label><br />
     <p style="width: 400px;">
         <script type="text/javascript">
             $(document).on('keypress', 'input', function (e) {
@@ -23,14 +24,14 @@
                 }
             });
         </script>
-    <asp:Label ID="Label1" runat="server" Text="UserName" Width="90"></asp:Label><br />
+    <asp:Label ID="Label1" runat="server" Text="Username" Width="90" Font-Size="Medium"></asp:Label><br />
       
     <asp:TextBox ID="txtUser" runat="server" Width="300px" autocomplete="off" onkeydown="focusNext(event)" TabIndex="1"></asp:TextBox>
     </p>
     <br />
    
    <p style="width: 400px;">
-    <asp:Label ID="Label2" runat="server" Text="Password" Width="90"></asp:Label><br />
+    <asp:Label ID="Label2" runat="server" Text="Password" Width="90" Font-Size="Medium"></asp:Label><br />
     
     <asp:TextBox ID="txtPass" runat="server" Width="300px" autocomplete="off" TextMode="Password" onkeydown="focusNext(event)" tabIndex="2"></asp:TextBox>
     </p>
