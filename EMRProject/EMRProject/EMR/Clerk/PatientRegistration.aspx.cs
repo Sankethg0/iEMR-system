@@ -248,7 +248,7 @@ namespace EMR
         protected void btnLogOut_Click(object sender, EventArgs e)
         {
             Session.Clear();
-            Response.Redirect("Main.aspx");
+            Response.Redirect("../Main.aspx");
         }
     }
     }

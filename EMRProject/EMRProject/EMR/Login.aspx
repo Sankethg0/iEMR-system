@@ -7,7 +7,7 @@
     
    <body>
    
-    <div class="centerblock"  align="center"> <img src="images/login.png"  style="width: 371px; height: 318px;" /></div>
+    <div class="centerblock"  align="center"> <img src="images/login.png"  style="width: 371px; height: 318px;"/></div>
     <div class="centerblock"  align="center">
     <asp:Label ID="label11" runat="server" Text="Login Here" Font-Bold="true" Font-Size="Large"></asp:Label><br />
     <p style="width: 400px;">
